@@ -6,7 +6,7 @@
 - Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others
 
 GET TO KNOW WHAT I'VE DONE 1/2 – DOWNLOAD MY AWS ENVIRONMENT SLIDESHOW:
-https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx
+https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx  
 GET TO KNOW WHAT I'VE DONE 2/2 – METEORITE GEOSPATIAL DATA VISUALIZATION:
 https://www.jonimakinen.com/mywork/meteorites-en.html
 
