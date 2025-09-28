@@ -10,7 +10,7 @@ I started as a BBA student studying Business Information Technologies in *Tamper
 
 I took my first baby steps into the programming world with object-oriented basics in *Java*, then I shifted towards mobile development with *Android Studio* and *Kotlin*, and later did web development with *JS* and backend development in *Node.js.* Working with *Git* has come beside me right from the start. I've touched also many other things along the way, like writing *Swift* on *xCode,* handled databases like *PostgreSQL, MongoDB,* and *SQLite,* scripting with *Python* and *Bash,* working with *Linux,* and gone through *C++* on a very basic level.
 
-Nowadays I'm mostly interested in *AWS Cloud,* Machine Learning frameworks like *PyTorch,* and doing Data Science with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard,* and such.
+Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
 
 ## My core competences
 
