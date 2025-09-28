@@ -2,27 +2,27 @@
 
 # Hello, fellow builders!<br />You've found your way to the right place!
 
-Feel free to rifle through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations.
+Feel free to go through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations and links to published applications.
 
 ## A bit about me
 
-I started as a BBA student studying Business Information Technologies in *Tampere University of Applied Sciences* in 2020, majoring in Software Development. Later I continued my studies at *Laurea UAS* in Vantaa. **I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project.**
+I started as a BBA student studying Business Information Technologies in *Tampere University of Applied Sciences* in 2020, majoring in Software Development. I stepped into the programming world by starting with object-oriented basics in *Java*, then I shifted towards mobile development with *Android Studio* and *Kotlin*, and later did web development with *JS* and backend development in *Node.js.* Working with *Git* has come beside me right from the start. I've touched also many other things along the way, like writing *Swift* on *xCode,* handled databases like *PostgreSQL, MongoDB,* and *SQLite,* scripting with *Python* and *Bash,* working with *Linux,* and gone through *C++* on a very basic level.
 
-I took my first baby steps into the programming world with object-oriented basics in *Java*, then I shifted towards mobile development with *Android Studio* and *Kotlin*, and later did web development with *JS* and backend development in *Node.js.* Working with *Git* has come beside me right from the start. I've touched also many other things along the way, like writing *Swift* on *xCode,* handled databases like *PostgreSQL, MongoDB,* and *SQLite,* scripting with *Python* and *Bash,* working with *Linux,* and gone through *C++* on a very basic level.
+Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
 
-Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
+**I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project.**
 
 ## My core competences
 
-### Crafting *AWS* Solutions
+### Crafting *AWS* solutions
 
-- I currently have published applications utilizing *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
-  - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know what I've done
+- I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
+  - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know my cloud environment in detail
 
-### Geospatial Data Analysis
+### Doing geospatial data analysis
 
 - I have real experience in *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
-  - Go see my [Meteorite Geospatial Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
+  - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
 
 ## My certifications
 
