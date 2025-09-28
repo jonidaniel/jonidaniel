@@ -6,7 +6,7 @@ Feel free to rifle through my repositories. There you'll find some of my project
 
 ## A bit about me
 
-I started as a BBA student studying Business Information Technologies in Tampere University of Applied Sciences in 2020, majoring in Software Development. Later I continued my studies at Laurea UAS in Vantaa. I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project (165/210 ECTS).
+I started as a BBA student studying Business Information Technologies in Tampere University of Applied Sciences in 2020, majoring in Software Development. Later I continued my studies at Laurea UAS in Vantaa. I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project.
 
 I took my first baby steps into programming with object-oriented basics in Java, then shifted towards mobile development with Android Studio and Kotlin, and later did web dev with JS and backend dev in Node.js. Working with Git has come right beside me from the start. I've, of course, touched also many other things along the way, like xCode & Swift, other databases like PostgreSQL, MongoDB, and SQLite, scripting with Python and Bash, working with Linux, and gone through C++ on a very basic level.
 
@@ -20,11 +20,11 @@ Nowadays I'm mostly interested in AWS Cloud, Machine Learning frameworks like Py
 - I have real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others
   - Go see my [Meteorite Geospatial Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
 
-## Certifications
-- AWS Certified Solutions Architect - Associate SAA-C03 (achieved on July 28, 2025)
-- AWS Certified Cloud Practitioner - Foundational CLF-C02 (achieved on June 12, 2025)
+## My certifications
+- AWS Certified Solutions Architect - Associate SAA-C03 ([achieved on July 28, 2025](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52)
+- AWS Certified Cloud Practitioner - Foundational CLF-C02 ([achieved on June 12, 2025](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c)
 
-## Contact Me
+## How to contact me or learn more about me
 - joni-makinen@live.fi
 - +358405882001
 - [jonimakinen.com](https://jonimakinen.com)
