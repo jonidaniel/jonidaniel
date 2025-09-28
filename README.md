@@ -27,7 +27,7 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ### Doing geospatial data analysis
 
-> Data Science and Machine Learning is the future. - Enterprise B
+> Data Science and Machine Learning is the future.<br />          - Enterprise B
 
 - I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
   - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
