@@ -18,7 +18,7 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ### Crafting *AWS* solutions
 
-> Any public cloud experience is alway a plus.
+> Public cloud experience is always a plus. - Employer A
 
 - I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
   - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52))
@@ -27,7 +27,7 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ### Doing geospatial data analysis
 
-> Data Science and Machine Learning is the future.
+> Data Science and Machine Learning is the future. - Enterprise B
 
 - I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
   - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
