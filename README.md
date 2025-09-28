@@ -35,7 +35,7 @@ I have real experience in *Python's* data science libraries, like *Pandas, GeoPa
 
 ## How to contact me or learn more about me
 
-- joni-makinen@live.fi
+- <joni-makinen@live.fi>
 - +358405882001
 - [jonimakinen.com](https://jonimakinen.com "My website")
 - [*LinkedIn*](https://www.linkedin.com/in/joni-daniel-makinen/ "My LinkedIn")
