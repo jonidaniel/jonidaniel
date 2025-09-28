@@ -2,7 +2,9 @@
 
 # Hello, fellow builders! You've found your way to the right place!
 
-Feel free to rifle through my repositories. There you'll find some of my projects' source codes. Refer to the README files for documentations.
+Feel free to rifle through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations.
+
+## A bit about me
 
 I started as a BBA student studying Business Information Technologies in Tampere University of Applied Sciences in 2020, majoring in Software Development. Later I continued my studies at Laurea UAS in Vantaa. I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project (165/210 ECTS).
 
@@ -10,7 +12,7 @@ I took my first baby steps into programming with object-oriented basics in Java,
 
 Nowadays I'm mostly interested in AWS Cloud, Machine Learning frameworks like PyTorch, and doing Data Science with Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, and such.
 
-## Core Competences
+## My core competences
 ### Crafting AWS Solutions
 - I currently have published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others
   - Download [My AWS Environment slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know what I've done
