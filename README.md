@@ -11,14 +11,11 @@ BBA degree lacking only an internship and a thesis project (165/210 ECTS)
 - Download My AWS Environment Slideshow  
 https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx  
 ## Geospatial Data Analysis
-- Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others  
-
-# Get To Know What I've Done
-
-## Meteorite Geospatial Data Visualization
+- Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others
+- Meteorite Geospatial Data Visualization  
 https://www.jonimakinen.com/mywork/meteorites-en.html  
 
-# Relevant Certifications
+# Certifications
 AWS Certified Solutions Architect - Associate SAA-C03 (July 28, 2025)  
 AWS Certified Cloud Practitioner - Foundational CLF-C02 (June 12, 2025)  
 
