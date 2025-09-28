@@ -1,4 +1,4 @@
-![](common-ducks.jpeg?raw=true)
+![](/imgs/common-ducks.jpeg?raw=true)
 
 # Hello, fellow builders!<br />You've found your way to the right place!
 
