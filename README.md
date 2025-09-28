@@ -3,9 +3,11 @@
 ## Biography
 Hello, fellow builders! You've found your way to the right place!
 
-I started studying Software Development in Tampere University of Applied Sciences in 2020. I took my first baby steps into programming with object-oriented basics in Java, gradually shifting towards and finally landing on Node.js development. Along the way I've touched many things like: JS/HTML/CSS, MySQL, Git, Python, Bash, Linux, C++, Kotlin, Swift, etc.
+I started as a Business Information Technologies student in Tampere University of Applied Sciences in 2020, majoring in Software Development. Since then I shifted over to Laurea UAS, still continuing with software and programming. Soon I'm graduating as a Bachelor of Business Administration. My degree's lacking only an internship and a thesis project (165/210 ECTS).
 
-I'm now looking for an internship to bring my studies to an end. I'm mostly interested in cloud, also DevOps/data/AI/ML. My BBA degree's lacking only an internship and a thesis project (165/210 ECTS).
+I took my first baby steps into programming with object-oriented basics in Java, then shifted towards mobile development with Android Studio and Kotlin, and later doing web dev with JS and backend dev in Node.js. Of course, I've also touched many other things along the way, like xCode and Swift, databases like MongoDB and SQLite, Git, Python, Bash, Linux, C++. I like to think I'm very confident in HTML/CSS, MySQL.
+
+Nowadays I'm mostly interested in AWS Cloud, Machine Learning frameworks like PyTorch, and doing Data Science with Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, and such.
 
 ## Core Competences
 ### Crafting AWS Solutions
