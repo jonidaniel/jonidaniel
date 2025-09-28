@@ -18,12 +18,16 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ### Crafting *AWS* solutions
 
+> Any public cloud experience is alway a plus.
+
 - I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
   - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52))
   - *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c))
   - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know my cloud environment in detail
 
 ### Doing geospatial data analysis
+
+> Data Science and Machine Learning is the future.
 
 - I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
   - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
