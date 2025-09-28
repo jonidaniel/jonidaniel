@@ -1,9 +1,9 @@
 # About me
 
-CORE COMPETENCE 1/2 – CRAFTING AWS SOLUTIONS:
-Published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others
-CORE COMPETENCE 2/2 – GEOSPATIAL DATA ANALYSIS:
-Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others
+- CORE COMPETENCE 1/2 – CRAFTING AWS SOLUTIONS:
+- Published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others
+- CORE COMPETENCE 2/2 – GEOSPATIAL DATA ANALYSIS:
+- Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others
 
 GET TO KNOW WHAT I'VE DONE 1/2 – DOWNLOAD MY AWS ENVIRONMENT SLIDESHOW:
 https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx
