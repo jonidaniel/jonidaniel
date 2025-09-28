@@ -1,8 +1,6 @@
 ![](/imgs/common-ducks.jpeg?raw=true)
 
-# Hello, fellow builders!
-
-# You've found your way to the right place!
+# Hello, fellow builders!<br />You've found your way to the right place!
 
 Feel free to rifle through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations.
 
