@@ -21,7 +21,11 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 > Public cloud experience is always a plus.<br />- Employer A
 
 I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
+
   - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52 "Verify on CertMetrics"))
+
+<img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="300" alt="AWS Certification badge" align="right"/></a>
+
   - *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c "Verify on CertMetrics"))
   - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx "Get to know my environment") to get to know my cloud environment in detail
 
@@ -30,6 +34,7 @@ I currently have applications published on *AWS Cloud* that utilize services, li
 > Data Science and Machine Learning is the future.<br />- Enterprise B
 
 I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
+
   - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html "Go to my website") on my website
   - I'm publishing new ML projects shortly! 
 
