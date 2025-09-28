@@ -1,7 +1,10 @@
 ![](common-ducks.jpeg?raw=true)
 
 ## Biography
-I've been developing software since 2020 (Node.js, JS/HTML/CSS, MySQL, Git, Python, Bash, Linux, etc.) I'm now looking for an internship in cloud (also DevOps/data/AI/ML). My BBA degree's lacking only an internship and a thesis project (165/210 ECTS).
+Hello, fellow builders! You've found your way to the right place!  
+I started studying Software Development in Tampere University of Applied Sciences in 2020. I took my first baby steps into programming with object-oriented basics in Java, gradually shifting towards and finally landing on Node.js development. Along the way I've touched many things like: JS/HTML/CSS, MySQL, Git, Python, Bash, Linux, etc.
+
+I'm now looking for an internship in cloud to bring my studies to an end(also DevOps/data/AI/ML). My BBA degree's lacking only an internship and a thesis project (165/210 ECTS).
 
 ## Core Competence
 ### Crafting AWS Solutions
