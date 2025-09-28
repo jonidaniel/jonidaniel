@@ -1,3 +1,5 @@
+![](screenshots/in-game-view.png?raw=true)
+
 # About me
 CORE COMPETENCE 1/2 – CRAFTING AWS SOLUTIONS:  
 Published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others  
