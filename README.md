@@ -16,7 +16,7 @@ Nowadays I'm mostly interested in AWS Cloud, Machine Learning frameworks like Py
 
 ### Crafting AWS Solutions
 
-- I currently have published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others
+- I currently have published applications utilizing *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
   - Download [My AWS Environment slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know what I've done
 
 ### Geospatial Data Analysis
