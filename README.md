@@ -26,8 +26,8 @@ Nowadays I'm mostly interested in *AWS Cloud,* Machine Learning frameworks like 
 
 ## My certifications
 
-- *AWS Certified Solutions Architect - Associate* SAA-C03 ([achieved on July 28, 2025](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52))
-- *AWS Certified Cloud Practitioner - Foundational* CLF-C02 ([achieved on June 12, 2025](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c))
+- *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52))
+- *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c))
 
 ## How to contact me or learn more about me
 
