@@ -6,6 +6,8 @@ Feel free to go through my repositories. There you'll find some of my projects' 
 
 ## A bit about me
 
+> Life isn't so serious.
+
 I started as a BBA student studying Business Information Technologies in *Tampere University of Applied Sciences* in 2020, majoring in Software Development. I stepped into the programming world by starting with object-oriented basics in *Java*, then I shifted towards mobile development with *Android Studio* and *Kotlin*, and later did web development with *JS* and backend development in *Node.js.* Working with *Git* has come beside me right from the start. I've touched also many other things along the way, like writing *Swift* on *xCode,* handled databases like *PostgreSQL, MongoDB,* and *SQLite,* scripting with *Python* and *Bash,* working with *Linux,* and gone through *C++* on a very basic level.
 
 Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
