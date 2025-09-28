@@ -8,10 +8,10 @@ BBA degree lacking only an internship and a thesis project (165/210 ECTS)
 # Core Competence
 ## Crafting AWS Solutions
 - Published applications utilizing EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3, and others
-- Download My AWS Environment Slideshow
+- Download My AWS Environment Slideshow  
 https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx  
 ## Geospatial Data Analysis
-Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others  
+- Real experience in Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON, and others  
 
 # Get To Know What I've Done
 
