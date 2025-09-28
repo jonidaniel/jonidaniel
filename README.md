@@ -38,4 +38,4 @@ I have real experience in *Python's* data science libraries, like *Pandas, GeoPa
 - joni-makinen@live.fi
 - +358405882001
 - [jonimakinen.com](https://jonimakinen.com "My website")
-- [*LinkedIn*](https://www.linkedin.com/in/joni-daniel-makinen/ "My LinkedIn)
+- [*LinkedIn*](https://www.linkedin.com/in/joni-daniel-makinen/ "My LinkedIn")
