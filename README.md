@@ -1,4 +1,4 @@
-![](screenshots/in-game-view.png?raw=true)
+![](common-ducks.jpeg?raw=true)
 
 # About me
 CORE COMPETENCE 1/2 – CRAFTING AWS SOLUTIONS:  
