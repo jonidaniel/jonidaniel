@@ -1,7 +1,6 @@
 ![](common-ducks.jpeg?raw=true)
 
-## Biography
-Hello, fellow builders! You've found your way to the right place!
+## Hello, fellow builders! You've found your way to the right place!
 
 I started as a BBA student studying Business Information Technologies in Tampere University of Applied Sciences in 2020, majoring in Software Development. Later I continued my studies at Laurea UAS in Vantaa. I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project (165/210 ECTS).
 
