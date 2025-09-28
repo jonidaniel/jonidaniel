@@ -16,7 +16,7 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ## My core competences
 
-### Crafting *AWS* solutions
+### 1. Crafting *AWS* solutions
 
 > Public cloud experience is always a plus.<br />- Employer A
 
@@ -25,11 +25,9 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
   - *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c))
   - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx) to get to know my cloud environment in detail
 
-### Doing geospatial data analysis
+### 2. Doing geospatial data analysis
 
-> Data Science and Machine Learning is the future.
->
->> - Enterprise B
+> Data Science and Machine Learning is the future.<br />- Enterprise B
 
 - I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
   - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html) on my website
