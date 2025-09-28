@@ -18,7 +18,9 @@ Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly 
 
 ### Crafting *AWS* solutions
 
-> Public cloud experience is always a plus.<br /> - Employer A
+> Public cloud experience is always a plus.
+>
+>    - Employer A
 
 - I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
   - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025, [verify here](https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52))
