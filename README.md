@@ -24,8 +24,8 @@ I currently have applications published on *AWS Cloud* that utilize services, li
 
   - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025)
 
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52" "Verify on CertMetrics"><img src="/imgs/certified-solutions-architect-badge.png" width="150" alt="AWS Certified Solutions Architect badge" align="right"/></a>
-<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c" "Verify on CertMetrics"><img src="/imgs/certified-cloud-practitioner-badge.png" width="150" alt="AWS Certified Solutions Architect badge" align="right"/></a>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="150" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c"><img src="/imgs/certified-cloud-practitioner-badge.png" width="150" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 
   - *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025)
   - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx "Get to know my environment") to get to know my cloud environment in detail
