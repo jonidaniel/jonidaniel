@@ -1,6 +1,6 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-# Hello, fellow builders!<br />You've found your way to the right place!
+# Hello, everyone!<br />You've found your way to the right place!
 
 Feel free to go through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations and links to published applications.
 
@@ -10,7 +10,7 @@ I started as a BBA student studying Business Information Technologies in *Tamper
 
 Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
 
-**I'm finally graduating in coming months – my degree's lacking only an internship and a thesis project.**
+**I'm finally graduating in coming months – my degree's lacking only a thesis project!**
 
 ## My core competences
 
@@ -33,7 +33,6 @@ I currently have applications published on *AWS Cloud* that utilize services, li
 
 I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
 
-  - Go see my [Meteorite Data Visualization](https://www.jonimakinen.com/mywork/meteorites-en.html "Go to my website") on my website
   - I'm publishing new ML projects shortly! 
 
 ## How to contact me or learn more about me
