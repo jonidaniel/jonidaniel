@@ -63,8 +63,6 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 </p>
 <br clear="right"/>
 
-Kirjoita teksti heti tähän kiinni ilman rivinvaihtoja. Nyt tekstin pitäisi mahtua kuvan vasemmalle puolelle, koska kuva on tarpeeksi kapea ja kelluu oikealla.<img src="/imgs/certified-solutions-architect-badge.png" style="float: left; width: 150px; margin-left: 15px;" />
-
 <br />
 
 ## 💼 Quick Professional Overview
