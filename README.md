@@ -1,5 +1,7 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
+# Hello, everyone!<br />You've found your way to the right place!
+
 ### Business Information Technology Graduate | Data Engineer & Process Automation Specialist
 
 I am a highly technical Business Information Technology (BBA) graduate specializing in **process automation** and **data engineering**. I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation (RPA), and cloud-based data workflows.
@@ -54,27 +56,13 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 ## 📬 Connect with Me
 *   📧 **Email:** joni.potala@gmail.com
 *   📞 **Phone:** +358405882001
-*   💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
-
-# Hello, everyone!<br />You've found your way to the right place!
-
-Feel free to go through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations and links to published applications.
-
-## A bit about me
-
-I started as a BBA student studying Business Information Technologies in *Tampere University of Applied Sciences* in 2020, majoring in Software Development. I stepped into the programming world by starting with object-oriented basics in *Java*, then I shifted towards mobile development with *Android Studio* and *Kotlin*, and later did web development with *JS* and backend development in *Node.js.* Working with *Git* has come beside me right from the start. I've touched also many other things along the way, like writing *Swift* on *xCode,* handled databases like *PostgreSQL, MongoDB,* and *SQLite,* scripting with *Python* and *Bash,* working with *Linux,* and gone through *C++* on a very basic level.
-
-Last year I changed from Tampere to *Laurea UAS* in Vantaa. Nowadays I'm mostly interested in architecting solutions in *AWS Cloud* and doing Data Science and creating Machine Learning Models with *Python's NumPy, SciPy, Pandas, GeoPandas, Matplotlib, Lonboard, PyTorch* and such.
-
-**I'm finally graduating in coming months – my degree's lacking only a thesis project!**
-
-## My core competences
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/joni-potala/]
 
 ### 1. Crafting *AWS* solutions
 
 > Public cloud experience is always a plus.<br />- Employer A
 
-I currently have applications published on *AWS Cloud* that utilize services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
+I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
 
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
