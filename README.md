@@ -12,9 +12,12 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 ## 💼 Quick Professional Overview
 
-* **Process Excellence Intern** @ BSH Home Appliances (Sweden) – Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
-* **Webmaster** @ Lihakilta – Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
-* **Award Winner** – Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
+* **Process Excellence Intern** @ BSH Home Appliances (Sweden)
+    * Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
+* **Webmaster** @ Lihakilta
+    * Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
+* **Award Winner**
+    * Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
 
 <br />
 
@@ -34,7 +37,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ### 3. **[Data Science & ML projects]("https://github.com/jonidaniel/data-science-and-machine-learning")** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects
 
-* I have gained hands-on experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others through independent projects
+* I've gained hands-on experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others through creating independent projects
 
 <br />
 
@@ -53,7 +56,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 ## 📜 Certifications
 
 * **AWS Certified Solutions Architect – Associate (SAA-C03, acquired on July 28, 2025)**
-* **AWS Certified Cloud Practitioner –  Foundational (CLF-C02, acquired on June 12, 2025)**
+* **AWS Certified Cloud Practitioner – Foundational (CLF-C02, acquired on June 12, 2025)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/></a>&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/></a>
 
@@ -61,7 +64,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ## 🎓 Education
 
-* **BBA in Business Information Technologies** – Laurea University of Applied Sciences
+* **BBA in Business Information Technologies** @ Laurea University of Applied Sciences
     * *Specialization:* Software Production & Digital Service Development
     * *Graduation:* Dec 2026 (only thesis to go)
 
