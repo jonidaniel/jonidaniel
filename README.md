@@ -15,12 +15,9 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
 *   **[JobsAI Repo](./)** – An Agentic AI implementation: A multi-agent job search tool for IT jobseekers that automates everything from scraping job ads to writing tailored cover letters.
 
-
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
-
 *   **[AWS Slides](./)** – Technical presentations and architecture materials covering cloud architecture and services.
-> Public cloud experience is always a plus.<br />- Employer A
 
 I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
 
