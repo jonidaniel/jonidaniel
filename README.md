@@ -10,8 +10,16 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 
 ## 🚀 Featured Projects & Repositories
 *   **[Data Science & ML Repo](./)** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects.
+> Data Science and Machine Learning is the future.<br />- Enterprise B
+
+I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
 *   **[JobsAI Repo](./)** – An Agentic AI implementation: A multi-agent job search tool for IT jobseekers that automates everything from scraping job ads to writing tailored cover letters.
 *   **[AWS Slides](./)** – Technical presentations and architecture materials covering cloud architecture and services.
+> Public cloud experience is always a plus.<br />- Employer A
+
+I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
+
+  - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx "Get to know my environment") to get to know my cloud environment in detail
 
 ---
 
@@ -28,8 +36,9 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 ---
 
 ## 📜 Certifications
-*   **AWS Certified Solutions Architect – Associate (SAA-C03)**
-*   **AWS Certified Cloud Practitioner (CLF-C02)**
+*   **AWS Certified Solutions Architect – Associate (SAA-C03, acquired on July 28, 2025)**
+*   **AWS Certified Cloud Practitioner –  Foundational (CLF-C02, acquired on June 12, 2025)**
+
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 
@@ -58,28 +67,4 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 ## 📬 Connect with Me
 *   📧 **Email:** joni.potala@gmail.com
 *   📞 **Phone:** +358405882001
-*   💼 **LinkedIn:** [https://www.linkedin.com/in/joni-potala/]
-
-### 1. Crafting *AWS* solutions
-
-> Public cloud experience is always a plus.<br />- Employer A
-
-I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
-
-  - *AWS Certified Solutions Architect - Associate* (SAA-C03, achieved on July 28, 2025)
-  - *AWS Certified Cloud Practitioner - Foundational* (CLF-C02, achieved on June 12, 2025)
-  - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx "Get to know my environment") to get to know my cloud environment in detail
-
-### 2. Doing geospatial data analysis
-
-> Data Science and Machine Learning is the future.<br />- Enterprise B
-
-I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
-
-  - I'm publishing new ML projects shortly! 
-
-## How to contact me or learn more about me
-
-- <joni.potala@gmail.com>
-- +358405882001
-- [*LinkedIn*](https://www.linkedin.com/in/joni-daniel-makinen/ "My LinkedIn")
+*   💼 **LinkedIn:** https://www.linkedin.com/in/joni-potala/
