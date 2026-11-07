@@ -12,12 +12,12 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 ## 💼 Quick Professional Overview
 
-* **Process Excellence Intern** @ BSH Home Appliances (Sweden)
-    * Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
-* **Webmaster** @ Lihakilta
-    * Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
-* **Award Winner**
-    * Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
+* **Process Excellence Intern** @ BSH Home Appliances in Sweden (June–October 2026)
+    * Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA
+* **Webmaster** @ Lihakilta (since February 2026)
+    * Developes and maintains responsive e-commerce platforms using WordPress & WooCommerce
+* **Award Winner** @ Tampere University Game Fair 2021
+    * Won the *Editor's Choice* award as Lead Programmer for the mobile game *Mental Run*
 
 <br />
 
