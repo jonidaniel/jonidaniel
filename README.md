@@ -89,3 +89,15 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 | 📞 **Phone SE** | +46737785460 |
 | 📞 **Phone FI** | +358405882001 |
 | 💼 **LinkedIn** | joni.potala@gmail.com |
+
+<table border="0" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Esimerkki 1:</strong></td>
+    <td>Tähän tulee ensimmäinen tieto.</td>
+  </tr>
+  <tr>
+    <td><strong>Esimerkki 2:</strong></td>
+    <td>Tähän tulee toinen tieto.</td>
+  </tr>
+</table>
+
