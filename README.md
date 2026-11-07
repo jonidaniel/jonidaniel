@@ -61,8 +61,9 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ## 🎓 Education
 
-* **BBA in Business Information Technologies** – Laurea University of Applied Sciences (Graduation: Dec 2026)
+* **BBA in Business Information Technologies** – Laurea University of Applied Sciences
     * *Specialization:* Software Production & Digital Service Development
+    * *Graduation:* Dec 2026 (only thesis to go)
 
 <br />
 
@@ -77,5 +78,5 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 ## 📬 Connect with Me
 
 * 📧 **Email:**&emsp;&emsp;&emsp;&emsp;&emsp;joni.potala@gmail.com
-* 📞 **Phone:**&emsp;+358405882001 & +46737785460
-* 💼 **LinkedIn:**&emsp;https://www.linkedin.com/in/joni-potala/
+* 📞 **Phone:**&emsp;&emsp;&emsp;&emsp;&emsp;+358405882001 & +46737785460
+* 💼 **LinkedIn:**&emsp;&emsp;&emsp;&emsp;&emsp;https://www.linkedin.com/in/joni-potala/
