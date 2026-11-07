@@ -24,7 +24,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 ## 🚀 Featured Projects
 
-### 1. **[JobsAI](https://github.com/jonidaniel/JobsAI)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
+1. **[JobsAI](https://github.com/jonidaniel/JobsAI)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
