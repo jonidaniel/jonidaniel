@@ -26,6 +26,8 @@ I had applications published on *AWS Cloud* that utilized services, like *EC2, L
 
   - Download [*My AWS Environment* slideshow](https://my-aws-environment.s3.eu-north-1.amazonaws.com/my-aws-environment.pptx "Get to know my environment") to get to know my cloud environment in detail
 
+https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
+
 ---
 
 ## 🛠️ Technical Toolkit
