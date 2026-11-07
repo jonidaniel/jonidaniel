@@ -10,6 +10,10 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 ---
 
+
+
+
+
 ## 🚀 Featured Projects
 
 ### 1. **[JobsAI](./)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
