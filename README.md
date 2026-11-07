@@ -66,26 +66,14 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p>
-  <a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="middle"/></a>
-  &nbsp;&nbsp; <strong>AWS Certified Solutions Architect – Associate (SAA-C03, acquired on July 28, 2025)</strong>
-</p>
-
-<p>
-  <a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge" align="middle"/></a>
-  &nbsp;&nbsp; <strong>AWS Certified Cloud Practitioner – Foundational (CLF-C02, acquired on June 12, 2025)</strong>
-</p>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<p>
-  <a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
+  <a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <br/><br/>
   • <strong>AWS Certified Solutions Architect – Associate (SAA-C03, acquired on July 28, 2025)</strong>
 </p>
 <br clear="right"/>
 
 <p>
-  <a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge" align="right"/></a>
+  <a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge" align="right"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <br/><br/>
   • <strong>AWS Certified Cloud Practitioner – Foundational (CLF-C02, acquired on June 12, 2025)</strong>
 </p>
