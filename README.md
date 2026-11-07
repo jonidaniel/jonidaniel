@@ -2,7 +2,7 @@
 
 # Hello, everyone!<br />You've found your way to the right place!
 
-### Business Information Technology Graduate | Data Engineer & Process Automation Specialist
+### Thesis Writer | Data Engineer & Process Automation Specialist
 
 I am a highly technical Business Information Technology (BBA) graduate specializing in **process automation** and **data engineering**. I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation (RPA), and cloud-based data workflows.
 
