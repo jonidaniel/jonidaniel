@@ -83,11 +83,11 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
     <td>joni.potala@gmail.com</td>
   </tr>
   <tr>
-    <td><strong>📞 Phone SE</strong></td>
+    <td><strong>📞 Phone SE 🇸🇪</strong></td>
     <td>+46737785460</td>
   </tr>
   <tr>
-    <td><strong>📞 Phone FI</strong></td>
+    <td><strong>📞 Phone FI 🇫🇮</strong></td>
     <td>+358405882001</td>
   </tr>
   <tr>
