@@ -9,11 +9,9 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 ---
 
 ## 🚀 Featured Projects & Repositories
-*   **[JobsAI Repo](./)** – An Agentic AI implementation: A multi-agent job search tool for IT jobseekers that automates everything from scraping job ads to writing tailored cover letters.
+* **[JobsAI Repo](./)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
-
-<video src="https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8.mp4"></video>
 
 *   **[AWS Slides](./)** – Technical presentations and architecture materials covering cloud architecture and services.
 
