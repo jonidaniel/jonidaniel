@@ -51,34 +51,28 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 
-<div style="display: flex; flex-direction: column; gap: 15px;">
-
-  <!-- Ensimmäinen sertifikaatti -->
-  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-    <div>
+<table>
+  <tr>
+    <td valign="middle">
       • <strong>AWS Certified Solutions Architect – Associate (SAA-C03, acquired on July 28, 2025)</strong>
-    </div>
-    <div style="flex-shrink: 0;">
-      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52">
+    </td>
+    <td align="right" width="130" valign="middle">
+      <a href="https://certmetrics.com">
         <img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/>
       </a>
-    </div>
-  </div>
-
-  <!-- Toinen sertifikaatti -->
-  <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-    <div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       • <strong>AWS Certified Cloud Practitioner – Foundational (CLF-C02, acquired on June 12, 2025)</strong>
-    </div>
-    <div style="flex-shrink: 0;">
-      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9f776be509ad4691b35f9ca79a61040c">
-        <img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/>
+    </td>
+    <td align="right" width="130" valign="middle">
+      <a href="https://certmetrics.com">
+        <img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/>
       </a>
-    </div>
-  </div>
-
-</div>
-
+    </td>
+  </tr>
+</table>
 
 Kirjoita teksti heti tähän kiinni ilman rivinvaihtoja. Nyt tekstin pitäisi mahtua kuvan vasemmalle puolelle, koska kuva on tarpeeksi kapea ja kelluu oikealla.<img src="/imgs/certified-solutions-architect-badge.png" style="float: left; width: 150px; margin-left: 15px;" />
 
