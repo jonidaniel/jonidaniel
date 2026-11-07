@@ -51,10 +51,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 
-<img src="/imgs/certified-solutions-architect-badge.png" alt="Esimerkkikuva" style="float: right; margin-left: 20px; width: 300px;" />
-
-Tähän tulee vasemmalle puolelle sijoittuvaa tekstiä. Teksti ympäröi ja asettuu kuvan viereen. Voit kirjoittaa tähän niin paljon tekstiä kuin haluat, ja se asettuu kuvan vasemmalle puolelle, kunnes lohko päättyy.
-
+<img src="/imgs/certified-solutions-architect-badge.png" style="float: right; width: 150px; margin-left: 15px;" />Kirjoita teksti heti tähän kiinni ilman rivinvaihtoja. Nyt tekstin pitäisi mahtua kuvan vasemmalle puolelle, koska kuva on tarpeeksi kapea ja kelluu oikealla.
 
 <br />
 
