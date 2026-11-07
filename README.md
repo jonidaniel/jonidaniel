@@ -10,6 +10,14 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 <br />
 
+## 💼 Quick Professional Overview
+
+* **Process Excellence Intern** @ BSH Home Appliances (Sweden) – Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
+* **Webmaster** @ Lihakilta – Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
+* **Award Winner** – Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
+
+<br />
+
 ## 🚀 Featured Projects
 
 ### 1. **[JobsAI](./)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
@@ -48,14 +56,6 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 * **AWS Certified Cloud Practitioner –  Foundational (CLF-C02, acquired on June 12, 2025)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/></a>&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/></a>
-
-<br />
-
-## 💼 Quick Professional Overview
-
-* **Process Excellence Intern** @ BSH Home Appliances (Sweden) – Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
-* **Webmaster** @ Lihakilta – Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
-* **Award Winner** – Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
 
 <br />
 
