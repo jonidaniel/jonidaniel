@@ -8,8 +8,6 @@ I'm a highly technical Business Information Technology graduate specializing in 
 
 I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation, and cloud-based data workflows.
 
----
-
 <br />
 
 ## 🚀 Featured Projects
@@ -30,7 +28,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 * I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
 
----
+<br />
 
 ## 🛠️ Technical Toolkit
 
@@ -42,7 +40,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 | **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
 | **Automation & BI**| UiPath (RPA), Power BI |
 
----
+<br />
 
 ## 📜 Certifications
 
@@ -53,7 +51,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/28286e0a928344ff8a68d6dba1804d52"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge" align="right"/></a>
 
----
+<br />
 
 ## 💼 Quick Professional Overview
 
@@ -61,14 +59,14 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 * **Webmaster** @ Lihakilta – Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
 * **Award Winner** – Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
 
----
+<br />
 
 ## 🎓 Education
 
 * **BBA in Business Information Technologies** – Laurea University of Applied Sciences (Graduation: Dec 2026)
     * *Specialization:* Software Production & Digital Service Development
 
----
+<br />
 
 ## 🗣️ Languages
 
@@ -76,10 +74,10 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 * **English:** Excellent (professional working proficiency & presentations)
 * **Swedish:** Basics (manages simple conversations and gets the job done)
 
----
+<br />
 
 ## 📬 Connect with Me
 
-* 📧 **Email:** joni.potala@gmail.com
-* 📞 **Phone:** +358405882001 & +46737785460
-* 💼 **LinkedIn:** https://www.linkedin.com/in/joni-potala/
+* 📧 **Email:**&emsp;joni.potala@gmail.com
+* 📞 **Phone:**&emsp;+358405882001 & +46737785460
+* 💼 **LinkedIn:**&emsp;https://www.linkedin.com/in/joni-potala/
