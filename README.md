@@ -4,14 +4,6 @@
 
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
-<p align="center">
-  <a href="https://github.com">
-    <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
-      📥 Download My CV (PDF)
-    </kbd>
-  </a>
-</p>
-
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
 I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation, and cloud-based data workflows.
@@ -19,6 +11,14 @@ I bridge the gap between business needs and powerful technical solutions, with a
 <br />
 
 ## 💼 Professional Overview
+
+<p align="center">
+  <a href="https://github.com">
+    <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
+      📥 Download My CV (PDF)
+    </kbd>
+  </a>
+</p>
 
 * **Process Excellence Intern** @ BSH Home Appliances in Sweden (June–October 2026)
     * Developed and deployed software robots on Virtual Machines for end-to-end data automation
