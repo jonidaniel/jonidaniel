@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://shields.io" alt="Download CV in PDF" />
+    <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
+      📥 Download My CV (PDF)
+    </kbd>
   </a>
 </p>
 
