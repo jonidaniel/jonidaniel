@@ -80,14 +80,14 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 <table border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td><strong>📧 Email</strong></td>
-    <td>joni.potala@gmail.com</td>
+    <td><a href="mailto:joni.potala@gmail.com">joni.potala@gmail.com</a></td>
   </tr>
   <tr>
-    <td><strong>📞 Phone SE 🇸🇪</strong></td>
+    <td><strong>📞 Phone 🇸🇪</strong></td>
     <td>+46737785460</td>
   </tr>
   <tr>
-    <td><strong>📞 Phone FI 🇫🇮</strong></td>
+    <td><strong>📞 Phone 🇫🇮</strong></td>
     <td>+358405882001</td>
   </tr>
   <tr>
