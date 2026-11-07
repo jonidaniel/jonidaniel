@@ -66,5 +66,5 @@ I had applications published on *AWS Cloud* that utilized services, like *EC2, L
 
 ## 📬 Connect with Me
 *   📧 **Email:** joni.potala@gmail.com
-*   📞 **Phone:** +358405882001
+*   📞 **Phone:** +358405882001 & +46737785460
 *   💼 **LinkedIn:** https://www.linkedin.com/in/joni-potala/
