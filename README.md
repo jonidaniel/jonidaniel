@@ -1,6 +1,6 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-# Hello, everyone!<br />      You've found your way to the right place 👍
+# Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
