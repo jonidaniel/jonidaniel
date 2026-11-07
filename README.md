@@ -28,7 +28,9 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
-2. **[AWS Environment]("https://github.com/jonidaniel/my-aws-environment")** – Technical presentations and architecture materials covering cloud architecture and services
+<br />
+
+2. **[AWS Environment](https://github.com/jonidaniel/my-aws-environment)** – Technical presentations and architecture materials covering cloud architecture and services
 
 * I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
 
@@ -36,7 +38,9 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
 https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
-3. **[Data Science & ML projects]("https://github.com/jonidaniel/data-science-and-machine-learning")** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects
+<br />
+
+3. **[Data Science & ML projects](https://github.com/jonidaniel/data-science-and-machine-learning)** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects
 
 * I've gained hands-on experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others through creating independent projects
 
