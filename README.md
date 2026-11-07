@@ -10,9 +10,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 ---
 
-
-
-
+<br />
 
 ## 🚀 Featured Projects
 
