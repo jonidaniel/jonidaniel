@@ -77,27 +77,22 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ## 📬 Connect with Me
 
-📧 **Email:** joni.potala@gmail.com
-
-📞 **Phone:** +358405882001 & +46737785460
-
-💼 **LinkedIn:** https://www.linkedin.com/in/joni-potala/
-
-| Category | Technologies |
-| :--- | :--- |
-| 📧 **Email** | joni.potala@gmail.com |
-| 📞 **Phone SE** | +46737785460 |
-| 📞 **Phone FI** | +358405882001 |
-| 💼 **LinkedIn** | joni.potala@gmail.com |
-
 <table border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td><strong>📧 Email</strong></td>
-    <td>Tähän tulee ensimmäinen tieto.</td>
+    <td>joni.potala@gmail.com</td>
   </tr>
   <tr>
-    <td><strong>Esimerkki 2:</strong></td>
-    <td>Tähän tulee toinen tieto.</td>
+    <td><strong>📞 Phone SE</strong></td>
+    <td>+46737785460</td>
+  </tr>
+  <tr>
+    <td><strong>📞 Phone FI</strong></td>
+    <td>+358405882001</td>
+  </tr>
+  <tr>
+    <td><strong>💼 LinkedIn</strong></td>
+    <td>https://www.linkedin.com/in/joni-potala/</td>
   </tr>
 </table>
 
