@@ -10,7 +10,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 <br />
 
-## 💼 Quick Professional Overview
+## 💼 Professional Overview
 
 * **Process Excellence Intern** @ BSH Home Appliances in Sweden (June–October 2026)
     * Developed and deployed software robots on Virtual Machines for end-to-end data automation
