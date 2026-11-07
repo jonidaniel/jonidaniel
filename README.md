@@ -79,6 +79,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 📧 **Email:**&emsp;&emsp;&emsp;&emsp;&emsp;joni.potala@gmail.com
 
-📞 **Phone:**&emsp;&emsp;&emsp;&emsp;+358405882001 & +46737785460
+📞 **Phone:**&emsp;&emsp;&emsp;&emsp;+358405882001
+&emsp;&emsp;&emsp;&emsp;+46737785460
 
 💼 **LinkedIn:**&emsp;&emsp;&emsp;https://www.linkedin.com/in/joni-potala/
