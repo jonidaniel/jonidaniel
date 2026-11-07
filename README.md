@@ -92,7 +92,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 <table border="0" cellpadding="5" cellspacing="0">
   <tr>
-    <td><strong>Esimerkki 1:</strong></td>
+    <td><strong>📧 Email</strong></td>
     <td>Tähän tulee ensimmäinen tieto.</td>
   </tr>
   <tr>
