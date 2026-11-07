@@ -1,5 +1,61 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
+### Business Information Technology Graduate | Data Engineer & Process Automation Specialist
+
+I am a highly technical Business Information Technology (BBA) graduate specializing in **process automation** and **data engineering**. I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation (RPA), and cloud-based data workflows.
+
+---
+
+## 🚀 Featured Projects & Repositories
+*   **[Data Science & ML Repo](./)** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects.
+*   **[JobsAI Repo](./)** – An Agentic AI implementation: A multi-agent job search tool for IT jobseekers that automates everything from scraping job ads to writing tailored cover letters.
+*   **[AWS Slides](./)** – Technical presentations and architecture materials covering cloud architecture and services.
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, VB/VBA |
+| **Data & ML** | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, GeoPandas, ggplot2 |
+| **Databases** | MySQL |
+| **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
+| **Automation & BI**| UiPath (RPA), Power BI |
+
+---
+
+## 📜 Certifications
+*   **AWS Certified Solutions Architect – Associate (SAA-C03)**
+*   **AWS Certified Cloud Practitioner (CLF-C02)**
+
+---
+
+## 💼 Quick Professional Overview
+*   **Process Excellence Intern** @ BSH Home Appliances (Sweden) – Developed and deployed software robots on Virtual Machines for end-to-end data automation; streamlined Excel systems with VBA.
+*   **Webmaster** @ Lihakilta – Developing and maintaining responsive e-commerce platforms using WordPress & WooCommerce.
+*   **Award Winner** – Won the *Editor's Choice* award (Pelitalojen valinta) at the Tampere University Game Fair 2021 as Lead Programmer for the mobile game *Mental Run*.
+
+---
+
+## 🎓 Education
+*   **BBA in Business Information Technologies** – Laurea University of Applied Sciences (Graduation: Dec 2026)
+    *   *Specialization:* Software Production & Digital Service Development
+
+---
+
+## 🗣️ Languages
+*   **Finnish:** Native
+*   **English:** Excellent (Professional working proficiency & presentations)
+*   **Swedish:** Basics
+
+---
+
+## 📬 Connect with Me
+*   📧 **Email:** joni.potala@gmail.com
+*   📞 **Phone:** +358405882001
+*   💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+
 # Hello, everyone!<br />You've found your way to the right place!
 
 Feel free to go through my repositories. There you'll find some of my projects' source codes and also extra material. Refer to the readme files for documentations and links to published applications.
