@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ### 3. **[Data Science & ML projects](./)** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects
 
-* I have real experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others
+* I have gained hands-on experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others through independent projects
 
 <br />
 
@@ -78,6 +78,6 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ## 📬 Connect with Me
 
-* 📧 **Email:**&emsp;joni.potala@gmail.com
-* 📞 **Phone:**&emsp;+358405882001 & +46737785460
-* 💼 **LinkedIn:**&emsp;https://www.linkedin.com/in/joni-potala/
+📧 **Email:**&emsp;joni.potala@gmail.com
+📞 **Phone:**&emsp;+358405882001 & +46737785460
+💼 **LinkedIn:**&emsp;https://www.linkedin.com/in/joni-potala/
