@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/></a>&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/></a>
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 
 ## 💼 Quick Professional Overview
 
