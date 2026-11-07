@@ -13,7 +13,8 @@ I am a highly technical Business Information Technology (BBA) graduate specializ
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
-<video src="https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8" autoplay loop muted playsinline width="100%"></video>
+
 
 
 *   **[AWS Slides](./)** – Technical presentations and architecture materials covering cloud architecture and services.
