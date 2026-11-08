@@ -6,9 +6,9 @@
 
 <h1>Hello, everyone!<br />&emsp;You've found your way to the right place 👍</h1>
 
-<p style="font-size: 2em; font-weight: bold; margin-top: 24px; margin-bottom: 16px;">
+<b style="font-size: 32px; display: block; margin-top: 24px; margin-bottom: 16px;">
   Hello, everyone!<br />&emsp;You've found your way to the right place 👍
-</p>
+</b>
 
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
