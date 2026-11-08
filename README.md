@@ -1,6 +1,6 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-### Thesis Writer | Lihakilta.fi Webmaster | RPA Specialist | Cloud Architect
+### Thesis Writer | Lihakilta.fi Webmaster | Cloud Architect | RPA Specialist
 
 <hr />
 <br />
