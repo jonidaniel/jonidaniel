@@ -1,22 +1,10 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding: 0; font-size: 1.15em; font-weight: bold;">
-      Thesis Writer
-    </td>
-    <td align="center" style="border: none; padding: 0; font-size: 1.15em; font-weight: bold; color: gray;">
-      |
-    </td>
-    <td align="center" style="border: none; padding: 0; font-size: 1.15em; font-weight: bold;">
-      Lihakilta.fi Webmaster
-    </td>
-    <td align="center" style="border: none; padding: 0; font-size: 1.15em; font-weight: bold; color: gray;">
-      |
-    </td>
-    <td align="right" style="border: none; padding: 0; font-size: 1.15em; font-weight: bold;">
-      AWS Certified Solutions Architect
-    </td>
+<table width="100%">
+  <tr>
+    <td align="left"><h3>Thesis Writer</h3></td>
+    <td align="center"><h3>Lihakilta.fi Webmaster</h3></td>
+    <td align="right"><h3>AWS Certified Solutions Architect</h3></td>
   </tr>
 </table>
 
