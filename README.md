@@ -1,5 +1,13 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
+<div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.17em; font-weight: bold; margin-top: 1em; margin-bottom: 1em;">
+  <span>Thesis Writer</span>
+  <span>|</span>
+  <span>Lihakilta.fi Webmaster</span>
+  <span>|</span>
+  <span>AWS Certified Solutions Architect</span>
+</div>
+
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
 <hr />
