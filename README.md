@@ -1,18 +1,8 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33.3%" align="left">Thesis Writer</th>
-      <th width="33.3%" align="center">Lihakilta.fi Webmaster</th>
-      <th width="33.3%" align="right">AWS Certified Solutions Architect</th>
-    </tr>
-  </thead>
-</table>
-
-<p align="left">a</p>
-<p align="center">b</p>
-<p align="right">c</p>
+<p align="left">Thesis Writer</p>
+<p align="center">Lihakilta.fi Webmaster</p>
+<p align="right">AWS Certified Solutions Architect</p>
 
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
