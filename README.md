@@ -7,7 +7,7 @@
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
-I'm an automation-driven Business Information Technology professional with a proven track record of deploying **AI agents, RPA workflows, and production-grade cloud architectures**
+I'm an automation-driven Business Information Technology candidate with a proven track record of deploying **AI agents, RPA workflows, and production-grade cloud architectures**
 
 I engineer secure, end-to-end cloud infrastructure and data pipelines that transform complex business bottlenecks into highly automated digital workflows
 
