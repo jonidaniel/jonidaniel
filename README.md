@@ -11,6 +11,14 @@ I'm a highly technical Business Information Technology candidate specializing in
 
 I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation, and cloud-based data workflows.
 
+> ### 🎯 Open for New Opportunities
+> **I am currently seeking junior, trainee, or specialist roles in the IT and software sector.**
+> 
+> With a solid foundation in cloud architecture, data workflows, and process automation, I am ready to jump into technical teams, adapt to new stacks, and solve real business problems.
+> 
+> *Feel free to reach out via email or LinkedIn below to discuss how I can add value to your team!*
+
+
 > ### 🎯 Open for Opportunities
 > **I am currently seeking full-time roles, internships, or trainee positions in:**
 > * Cloud Engineering / DevOps (AWS)
