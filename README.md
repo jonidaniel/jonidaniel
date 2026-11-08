@@ -34,7 +34,8 @@ I bridge the gap between business needs and powerful technical solutions, with a
 ### 🤖 JobsAI – Agentic AI Implementation
 > Multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters.
 
-![Python](https://shields.io) ![Agentic AI](https://shields.io🧠-blue?style=for-the-badge) ![Web Scraping](https://shields.io🕸️-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
+
 
 <br />
 
@@ -47,7 +48,8 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 ### ☁️ AWS Cloud Environment Architecture
 > Production-grade cloud environments and automated full-stack architectures built entirely on AWS.
 
-![AWS](https://shields.io) ![JavaScript](https://shields.io) ![Boto3](https://shields.io🐍-blue?style=for-the-badge) ![Infrastructure as Code](https://shields.io⚙️-orange?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![Boto3](https://img.shields.io/badge/Boto3-blue?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
+
 
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**.
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**.
@@ -65,7 +67,8 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 ### 📈 Data Science & Machine Learning Projects
 > A comprehensive collection of statistical data analysis, machine learning algorithms, and predictive modeling workflows.
 
-![R](https://shields.io) ![Pandas](https://shields.io) ![Scikit-Learn](https://shields.io) ![Geospatial](https://shields.io🌍-darkgreen?style=for-the-badge)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn) ![Geospatial](https://img.shields.io/badge/Geospatial-green?style=for-the-badge)
+
 
 * Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis.
 * Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**.
