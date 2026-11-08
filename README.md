@@ -6,7 +6,8 @@
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
-<summary><h1>Hello, everyone!<br />&emsp;You've found your way to the right place 👍</h1></summary>
+<h1><sub>Hello, everyone!<br />&emsp;You've found your way to the right place 👍</sub></h1>
+
 
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
