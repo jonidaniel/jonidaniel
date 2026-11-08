@@ -3,6 +3,7 @@
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
 <hr />
+<br />
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
