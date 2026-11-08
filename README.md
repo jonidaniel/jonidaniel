@@ -30,6 +30,31 @@ I bridge the gap between business needs and powerful technical solutions, with a
     * Develops and maintains Lihakilta's responsive e-commerce platform using WordPress & WooCommerce
 * **Award Winner** @ Tampere University Game Fair 2021
     * Won the *Editor's Choice* award as Lead Programmer for the mobile game *Mental Run*
+ 
+<ul>
+  <li>
+    <strong>Process Excellence Intern</strong> @ BSH Home Appliances in Sweden (June–October 2026)
+    <ul>
+      <li>Developed and deployed software robots on Virtual Machines for end-to-end data automation</li>
+      <li>Streamlined Excel systems using VBA</li>
+    </ul>
+  </li>
+  <br />
+  <li>
+    <strong>Webmaster</strong> @ <a href="https://lihakilta.fi">lihakilta.fi</a> (since February 2026)
+    <ul>
+      <li>Develops and maintains Lihakilta's responsive e-commerce platform using WordPress & WooCommerce</li>
+    </ul>
+  </li>
+  <br />
+  <li>
+    <strong>Award Winner</strong> @ Tampere University Game Fair 2021
+    <ul>
+      <li>Won the <em>Editor's Choice</em> award as Lead Programmer for the mobile game <em>Mental Run</em></li>
+    </ul>
+  </li>
+</ul>
+
 
 <br />
 <br />
