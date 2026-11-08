@@ -169,7 +169,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 ## 🗣️ Languages
 
 * **Finnish:** Native
-* **English:** Excellent (professional working proficiency & presentations)
+* **English:** Excellent spoken & written (professional working proficiency & presentations)
 * **Swedish:** Basics (manages simple conversations & gets the job done)
 
 <br />
