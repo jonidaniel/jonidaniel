@@ -13,7 +13,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
 ## 💼 Professional Overview
 
 <p align="center">
-  <a href="cv.pdf">
+  <a href="cv.pdf" download="joni_potala_CV.pdf">
     <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
       📥 Download My CV (PDF)
     </kbd>
@@ -115,7 +115,6 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
   </tr>
   <tr>
     <td><strong>💼 LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/joni-potala/">in/joni-potala</td>
+    <td><a href="https://www.linkedin.com/in/joni-potala/">in/joni-potala</a></td>
   </tr>
 </table>
-
