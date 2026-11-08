@@ -142,23 +142,23 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
   <li>
     <strong>BBA in Business Information Technologies</strong> @ Laurea University of Applied Sciences
     <ul>
-      <li>Specialization: Software Production & Digital Service Development</li>
-      <li>Graduation: in coming months</li>
+      <li><em>Specialization:</em> Software Production & Digital Service Development</li>
+      <li><em>Graduation:</em> in coming months</li>
     </ul>
   </li>
   <br />
   <li>
     <strong>Vocational Qualification in Business and Administration</strong></a> @ Rastor-instituutti
     <ul>
-      <li>Specialization: Customer Service and Sales</li>
-      <li>Graduated: 2018</li>
+      <li><em>Specialization:</em> Customer Service and Sales</li>
+      <li><em>Graduated:</em> 2018</li>
     </ul>
   </li>
   <br />
   <li>
     <strong>Vocational Qualification in Electrical Engineering and Automation</strong> @ Sasky Vammalan ammattikoulu
     <ul>
-      <li>Graduated: 2012</li>
+      <li><em>Graduated:</em> 2012</li>
     </ul>
   </li>
 </ul>
