@@ -1,9 +1,5 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-<p align="left">Thesis Writer</p>
-<p align="center">Lihakilta.fi Webmaster</p>
-<p align="right">AWS Certified Solutions Architect</p>
-
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
 <hr />
