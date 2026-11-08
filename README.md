@@ -129,21 +129,8 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 <br />
 <br />
 
-## 🎓 Education
-
-* **BBA in Business Information Technologies** @ Laurea University of Applied Sciences
-    * *Specialization:* Software Production & Digital Service Development
-    * *Graduation:* in coming months
-
-* **Vocational Qualification in Business and Administration** @ Rastor-instituutti
-    * *Specialization:* Customer Service and Sales
-    * *Graduated:* 2018
-
-* **Vocational Qualification in Electrical Engineering and Automation** @ Sasky Vammalan ammattikoulu
-    * *Graduated:* 2012
-
 <h2>
-  💼 Professional Overview 
+  🎓 Education 
   <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
     <kbd style="padding: 8px 15px; font-size: 0.6em; font-weight: bold; cursor: pointer; border-radius: 6px;">
       📄 View My CV (PDF)
