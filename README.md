@@ -10,6 +10,10 @@
   </thead>
 </table>
 
+<p align="left">a</p>
+<p align="center">b</p>
+<p align="right">c</p>
+
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
 <hr />
