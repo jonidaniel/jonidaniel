@@ -7,19 +7,19 @@
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
-I am an automation-driven **Business Information Technology** professional with a proven track record of deploying **AI agents, RPA workflows, and production-grade cloud architectures**. 
+I'm an automation-driven Business Information Technology professional with a proven track record of deploying **AI agents, RPA workflows, and production-grade cloud architectures**
 
-I engineer secure, end-to-end cloud infrastructure and data pipelines that transform complex business bottlenecks into highly automated digital workflows.
+I engineer secure, end-to-end cloud infrastructure and data pipelines that transform complex business bottlenecks into highly automated digital workflows
 
-* **Cloud Infrastructure:** Architecting scalable microservice environments utilizing modern AWS services.
-* **Process Automation:** Currently writing my Bachelor’s thesis on Robotic Process Automation (RPA) design, backed by a strong foundation in enterprise data automation and software robotics.
+* **Cloud Infrastructure:** Architecting scalable microservice environments utilizing modern AWS services
+* **Process Automation:** Currently writing my Bachelor’s thesis on developing and deploying Robotic Process Automation systems
 
 <br />
 
 > ### 🎯 Open for New Opportunities
-> **I'm currently seeking junior, trainee, or specialist roles in the IT and software sector.**
+> **I'm currently seeking junior, trainee, or specialist roles in the IT and software sector**
 > 
-> With a solid foundation in data workflows, process automation, and cloud architecture, I'm ready to jump into technical teams, adapt to new stacks, and solve real business problems.
+> With a solid foundation in data workflows, process automation, and cloud architecture, I'm ready to jump into technical teams, adapt to new stacks, and solve real business problems
 > 
 > *Feel free to reach out via email or LinkedIn below to discuss how I can add value to your team!*
 
@@ -59,14 +59,13 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
   </li>
 </ul>
 
-
 <br />
 <br />
 
 ## 🚀 Featured Projects
 
 ### 🤖 JobsAI – Agentic AI Implementation
-> Multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters.
+> Multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
 
@@ -79,13 +78,13 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 <br />
 
 ### ☁️ AWS Cloud Environment Architecture
-> Production-grade cloud environments and automated full-stack architectures built entirely on AWS.
+> Production-grade cloud environments and automated full-stack architectures built entirely on AWS
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![Boto3](https://img.shields.io/badge/Boto3-blue?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
 
-* **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**.
-* **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**.
-* **Governance & Analysis:** Monitored system health with **CloudTrail, CloudFormation, and Amazon Athena**.
+* **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**
+* **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**
+* **Governance & Analysis:** Monitored system health with **CloudTrail, CloudFormation, and Amazon Athena**
 * 📊 Download the full [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) for in-depth technical blueprints.
 
 <br />
@@ -97,12 +96,12 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 <br />
 
 ### 📈 Data Science & Machine Learning Projects
-> A comprehensive collection of statistical data analysis, machine learning algorithms, and predictive modeling workflows.
+> A comprehensive collection of statistical data analysis, machine learning algorithms, and predictive modeling workflows
 
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn) ![Geospatial](https://img.shields.io/badge/Geospatial-green?style=for-the-badge)
 
-* Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis.
-* Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**.
+* Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis
+* Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**
 
 <br />
 <br />
