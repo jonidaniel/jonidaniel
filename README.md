@@ -73,6 +73,10 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
+<p align="center">
+  <img src="jobsai_demo.gif" width="100%" alt="JobsAI Demo Animation" style="border-radius: 8px;" />
+</p>
+
 <br />
 <hr />
 <br />
