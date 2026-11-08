@@ -4,7 +4,7 @@
 
 <hr />
 
-# Hello, everyone!<br />&emsp;You've found your way to the right place 👍
+<h1>Hello, everyone!<br />&emsp;You've found your way to the right place 👍</h1>
 
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
