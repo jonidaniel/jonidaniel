@@ -51,7 +51,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
   <li>
     <strong>Award Winner</strong> @ Tampere University Game Fair 2021
     <ul>
-      <li>Won the <em>Editor's Choice</em> award as Lead Programmer for the mobile game <em>Mental Run</em></li>
+      <li>Won the <em>Editor's Choice</em> award as Lead Programmer for the mobile game <a href="https://youtu.be/PSHA4EaZC10"><em>Mental Run</em></a></li>
     </ul>
   </li>
 </ul>
