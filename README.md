@@ -72,7 +72,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 <br />
 
 <p align="center">
-  <img src="gifs/jobsai_demo.gif" width="100%" alt="JobsAI Demo Animation" style="border-radius: 8px;" />
+  <img src="./gifs/jobsai_demo.gif" width="100%" alt="JobsAI Demo Animation" style="border-radius: 8px;" />
 </p>
 
 <br />
