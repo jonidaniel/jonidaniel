@@ -1,9 +1,6 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 1000 40' width='100%25'><text x='0' y='25' fill='%23ffffff' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600'>Thesis Writer</text><text x='500' y='25' fill='%23ffffff' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600' text-anchor='middle'>Lihakilta.fi Webmaster</text><text x='1000' y='25' fill='%23ffffff' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600' text-anchor='end'>AWS Certified Solutions Architect</text></svg>">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' viewBox='0 0 1000 40' width='100%25'><text x='0' y='25' fill='%2324292f' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600'>Thesis Writer</text><text x='500' y='25' fill='%2324292f' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600' text-anchor='middle'>Lihakilta.fi Webmaster</text><text x='1000' y='25' fill='%2324292f' font-family='-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif' font-size='18' font-weight='600' text-anchor='end'>AWS Certified Solutions Architect</text></svg>" width="100%" alt="Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect">
-</picture>
+<p align="right">a</p>
 
 ### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
