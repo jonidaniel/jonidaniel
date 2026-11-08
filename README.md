@@ -13,7 +13,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
 ## 💼 Professional Overview
 
 <p align="center">
-  <a href="https://github.com">
+  <a href="cv.pdf">
     <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
       📥 Download My CV (PDF)
     </kbd>
