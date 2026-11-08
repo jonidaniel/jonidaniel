@@ -142,6 +142,40 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 * **Vocational Qualification in Electrical Engineering and Automation** @ Sasky Vammalan ammattikoulu
     * *Graduated:* 2012
 
+<h2>
+  💼 Professional Overview 
+  <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
+    <kbd style="padding: 8px 15px; font-size: 0.6em; font-weight: bold; cursor: pointer; border-radius: 6px;">
+      📄 View My CV (PDF)
+    </kbd>
+  </a>
+</h2>
+ 
+<ul>
+  <li>
+    <strong>BBA in Business Information Technologies</strong> @ Laurea University of Applied Sciences
+    <ul>
+      <li>Specialization: Software Production & Digital Service Development</li>
+      <li>Graduation: in coming months</li>
+    </ul>
+  </li>
+  <br />
+  <li>
+    <strong>Vocational Qualification in Business and Administration</strong></a> @ Rastor-instituutti
+    <ul>
+      <li>Specialization: Customer Service and Sales</li>
+      <li>Graduated: 2018</li>
+    </ul>
+  </li>
+  <br />
+  <li>
+    <strong>Vocational Qualification in Electrical Engineering and Automation</strong> @ Sasky Vammalan ammattikoulu
+    <ul>
+      <li>Graduated: 2012</li>
+    </ul>
+  </li>
+</ul>
+
 <br />
 <br />
 
