@@ -9,6 +9,7 @@ I'm a highly technical Business Information Technology candidate specializing in
 I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation, and cloud-based data workflows.
 
 <br />
+<br />
 
 <h2>
   💼 Professional Overview 
@@ -28,6 +29,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
     * Won the *Editor's Choice* award as Lead Programmer for the mobile game *Mental Run*
 
 <br />
+<br />
 
 ## 🚀 Featured Projects
 
@@ -35,7 +37,6 @@ I bridge the gap between business needs and powerful technical solutions, with a
 > Multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters.
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
-
 
 <br />
 
@@ -49,7 +50,6 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 > Production-grade cloud environments and automated full-stack architectures built entirely on AWS.
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![Boto3](https://img.shields.io/badge/Boto3-blue?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
-
 
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**.
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**.
@@ -69,10 +69,10 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn) ![Geospatial](https://img.shields.io/badge/Geospatial-green?style=for-the-badge)
 
-
 * Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis.
 * Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**.
 
+<br />
 <br />
 
 ## 🚀 Featured Projects
@@ -80,8 +80,6 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 1. **[JobsAI](https://github.com/jonidaniel/JobsAI)** – An Agentic AI implementation: a multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
 
 https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
-
-<br />
 
 2. **[AWS Environment](https://github.com/jonidaniel/my-aws-environment)** – Technical presentations and architecture materials covering cloud architecture and services
 
@@ -91,12 +89,11 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
 https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
-<br />
-
 3. **[Data Science & ML projects](https://github.com/jonidaniel/data-science-and-machine-learning)** – A comprehensive collection of data analysis, machine learning, and predictive modeling projects
 
 * I've gained hands-on experience in *Python's* data science libraries, like *Pandas, GeoPandas, Leaflet, Shapefile.js, GeoJSON,* and others through creating independent projects
 
+<br />
 <br />
 
 ## 🛠️ Technical Toolkit
@@ -110,6 +107,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 | **Automation & BI**| UiPath (RPA), Power BI |
 
 <br />
+<br />
 
 ## 📜 Certifications
 
@@ -118,6 +116,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/></a>
 
+<br />
 <br />
 
 ## 🎓 Education
@@ -134,6 +133,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
     * *Graduated:* 2012
 
 <br />
+<br />
 
 ## 🗣️ Languages
 
@@ -141,6 +141,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 * **English:** Excellent (professional working proficiency & presentations)
 * **Swedish:** Basics (manages simple conversations & gets the job done)
 
+<br />
 <br />
 
 ## 📬 Connect with Me
