@@ -4,12 +4,7 @@
 
 <hr />
 
-<h1>Hello, everyone!<br />&emsp;You've found your way to the right place 👍</h1>
-
-<table><tr><td style="font-size:32px; font-weight:bold; border:none; line-height:1.2;">
-  Hello, everyone!<br />&emsp;You've found your way to the right place 👍
-</td></tr></table>
-
+# Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
