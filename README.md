@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/b365733a-7f87-4705-9ee4-274616ff46b8
 
 * I had applications published on *AWS Cloud* that utilized services, like *EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, API Gateway, Route 53, EventBridge, SNS, SQS, CloudWatch, CloudTrail, CloudFormation, Athena, IAM, SDK for JavaScript v2 & v3, Boto3,* and others
 
-* Download [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/blob/main/my-aws-environment.pptx) to get to know my cloud environment in detail
+* Download [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) to get to know my cloud environment in detail
 
 https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 
