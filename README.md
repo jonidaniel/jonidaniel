@@ -7,9 +7,12 @@
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
 
-I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
+I am an automation-driven **Business Information Technology** professional with a proven track record of deploying **AI agents, RPA workflows, and production-grade cloud architectures**. 
 
-I bridge the gap between business needs and powerful technical solutions, with a proven track record in Agentic AI, Robotic Process Automation, and cloud-based data workflows.
+I engineer secure, end-to-end cloud infrastructure and data pipelines that transform complex business bottlenecks into highly automated digital workflows.
+
+* **Cloud Infrastructure:** Architecting scalable microservice environments utilizing modern AWS services.
+* **Process Automation:** Currently writing my Bachelor’s thesis on Robotic Process Automation (RPA) design, backed by a strong foundation in enterprise data automation and software robotics.
 
 <br />
 
