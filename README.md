@@ -10,16 +10,6 @@ I bridge the gap between business needs and powerful technical solutions, with a
 
 <br />
 
-## 💼 Professional Overview
-
-<p align="center">
-  <a href="cv.pdf">
-    <kbd style="padding: 15px 30px; font-size: 1.2em; font-weight: bold; cursor: pointer; border-radius: 8px;">
-      📄 View My CV (PDF)
-    </kbd>
-  </a>
-</p>
-
 <h2>
   💼 Professional Overview 
   <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
