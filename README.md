@@ -28,7 +28,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <h2>
   💼 Professional Overview 
-  <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
+  <a href="./cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
     <kbd style="padding: 8px 15px; font-size: 0.6em; font-weight: bold; cursor: pointer; border-radius: 6px;">
       📄 View My CV (PDF)
     </kbd>
@@ -72,7 +72,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 <br />
 
 <p align="center">
-  <img src="jobsai_demo.gif" width="100%" alt="JobsAI Demo Animation" style="border-radius: 8px;" />
+  <img src="./gifs/jobsai_demo.gif" width="100%" alt="JobsAI Demo Animation" style="border-radius: 8px;" />
 </p>
 
 <br />
@@ -92,7 +92,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 <br />
 
 <p align="center">
-  <img src="aws_demo.gif" width="100%" alt="AWS Demo Animation" style="border-radius: 8px;" />
+  <img src="./gifs/aws_demo.gif" width="100%" alt="AWS Demo Animation" style="border-radius: 8px;" />
 </p>
 
 <br />
