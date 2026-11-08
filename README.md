@@ -20,6 +20,15 @@ I bridge the gap between business needs and powerful technical solutions, with a
   </a>
 </p>
 
+<h2>
+  💼 Professional Overview 
+  <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
+    <kbd style="padding: 8px 15px; font-size: 0.6em; font-weight: bold; cursor: pointer; border-radius: 6px;">
+      📄 View My CV (PDF)
+    </kbd>
+  </a>
+</h2>
+
 * **Process Excellence Intern** @ BSH Home Appliances in Sweden (June–October 2026)
     * Developed and deployed software robots on Virtual Machines for end-to-end data automation
     * Streamlined Excel systems using VBA
