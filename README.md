@@ -44,7 +44,7 @@ I bridge the gap between business needs and powerful technical solutions, with a
   <li>
     <strong>Webmaster</strong> @ <a href="https://lihakilta.fi">lihakilta.fi</a> (since February 2026)
     <ul>
-      <li>Develops and maintains Lihakilta's responsive e-commerce platform using WordPress & WooCommerce</li>
+      <li>Develops and maintains Lihakilta's e-commerce platform using WordPress & WooCommerce</li>
     </ul>
   </li>
   <br />
