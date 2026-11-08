@@ -1,10 +1,10 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
+### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
+
 <hr />
 
 # Hello, everyone!<br />&emsp;You've found your way to the right place 👍
-
-### Thesis Writer | Lihakilta.fi Webmaster | AWS Certified Solutions Architect
 
 I'm a highly technical Business Information Technology candidate specializing in **process automation** and **data engineering**.
 
