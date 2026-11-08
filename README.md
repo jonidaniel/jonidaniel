@@ -69,6 +69,16 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
 
+### 🤖 JobsAI – Agentic AI Implementation
+> A production-grade multi-agent job search and automation tool for IT jobseekers that completely automates the pipeline from scraping job boards to generating tailored cover letters.
+
+* **Serverless Agentic Architecture:** Engineered an asynchronous, event-driven pipeline deployed entirely on serverless infrastructure (**AWS Lambda & API Gateway**).
+* **LLM-Powered Orchestration:** Developed 4 specialized, deterministic AI agents (**Profiler, QueryBuilder, Analyzer, and Generator**) running on OpenAI's GPT models to extract structured candidate skills, build optimized queries, and write tailored documents.
+* **Data Engineering & State Management:** Implemented web scrapers (**BeautifulSoup**) targeting major job boards (Duunitori, Jobly) with state persistence and progress tracking managed via **Amazon DynamoDB & S3**.
+* **Enterprise Delivery:** Automatically outputs personalized corporate-standard cover letters in Word format (`.docx`) delivered via presigned secure S3 URLs or automated email workflows (**AWS SES**).
+
+*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but the full implementation demo can be viewed below.)*
+
 <br />
 
 <p align="center">
