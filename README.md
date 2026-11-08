@@ -129,14 +129,7 @@ https://github.com/user-attachments/assets/d38f4f1e-e1e3-402b-b420-9ce66a792d42
 <br />
 <br />
 
-<h2>
-  🎓 Education 
-  <a href="cv.pdf" style="text-decoration: none; margin-left: 15px; vertical-align: middle;">
-    <kbd style="padding: 8px 15px; font-size: 0.6em; font-weight: bold; cursor: pointer; border-radius: 6px;">
-      📄 View My CV (PDF)
-    </kbd>
-  </a>
-</h2>
+<h2>🎓 Education</h2>
  
 <ul>
   <li>
