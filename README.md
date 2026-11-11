@@ -143,7 +143,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
       <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon EC2" />
       <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon S3" />
       <img src="https://custom-icon-badges.demolab.com/badge/Amazon_DynamoDB-%234053D6.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon DynamoDB" />
-      <img src="https://custom.icon.badges.demolab.com/badge/Amazon_RDS-%23527FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon RDS" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-%23527FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon RDS" />
       <img src="https://custom-icon-badges.demolab.com/badge/API_Gateway-%23FF4F8B.svg?style=for-the-badge&logo=aws&logoColor=white" alt="API Gateway" />
       <img src="https://custom-icon-badges.demolab.com/badge/CloudFront-%238C4FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="CloudFront" />
     </td>
