@@ -266,7 +266,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
   </li>
   <br />
   <li>
-    <strong>Vocational Qualification in Business and Administration</strong></a> @ Rastor-instituutti
+    <strong>Vocational Qualification in Business and Administration</strong> @ Rastor-instituutti
     <ul>
       <li><em>Specialization:</em> Customer Service and Sales</li>
       <li><em>Graduated:</em> 2018</li>
