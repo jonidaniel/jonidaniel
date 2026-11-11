@@ -176,9 +176,8 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**
 * **Governance & Analysis:** Monitored system health with **CloudTrail, CloudFormation, and Amazon Athena**
-* 📊 Download the full [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) for in-depth technical blueprints
 
-*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but a usage demo can be viewed below)*
+*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but a slideshow documentation for in-depth technical blueprints can be viewed below, 📊 download [here](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx))*
 
 <br />
 
