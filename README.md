@@ -39,8 +39,8 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
   <li>
     <strong>Process Excellence Intern</strong> @ BSH Home Appliances in Sweden (June–October 2026)
     <ul>
-      <li>Developed and deployed software robots on Virtual Machines for end-to-end data automation</li>
-      <li>Streamlined Excel systems using VBA</li>
+      <li>Analyzed business workflows and identified manual bottlenecks to improve operational efficiency</li>
+      <li>Streamlined data management and reporting processes using Excel and VBA</li>
     </ul>
   </li>
   <br />
@@ -224,6 +224,15 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <br />
 <br />
+
+### 🤖 Enterprise Process Automation (Bachelor's Thesis Project)
+> An end-to-end Robotic Process Automation (RPA) solution designed to eliminate repetitive manual data handling and streamline cross-system workflows
+
+* **Process Analysis & Design:** Mapped complex manual workflows, defined exception handling logic, and designed a resilient, unattended automation pipeline
+* **Operational Impact:** Significantly reduced manual processing time and eliminated human data-entry errors in recurring administrative tasks
+* **Security & Governance:** Built with strict adherence to enterprise data privacy, role-based access controls, and audit logging standards
+
+*(Note: Due to a Non-Disclosure Agreement (NDA), the client organization, specific software stack, and source code remain confidential)*
 
 ## 📜 Certifications
 
