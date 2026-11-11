@@ -92,7 +92,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 ### ☁️ AWS Cloud Environment Architecture
 > Production-grade cloud environments and automated full-stack architectures built entirely on AWS
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-blue?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" /> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-blue?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
 
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**
