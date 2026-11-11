@@ -223,6 +223,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**
 
 <br />
+<hr />
 <br />
 
 ### 🤖 Enterprise Process Automation (Bachelor's Thesis Project)
@@ -233,6 +234,9 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * **Security & Governance:** Built with strict adherence to enterprise data privacy, role-based access controls, and audit logging standards
 
 *(Note: Due to a Non-Disclosure Agreement (NDA), the client organization, specific software stack, and source code remain confidential)*
+
+<br />
+<br />
 
 ## 📜 Certifications
 
