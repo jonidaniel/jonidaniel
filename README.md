@@ -2,11 +2,7 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-
-<img src="https://img.shields.io/badge/WordPress-%23117AC9(piste)svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-
-<img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/WordPress-%23117AC9(piste)svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 
 ### Thesis Writer | Lihakilta.fi Webmaster | Cloud Architect | RPA Specialist
 
@@ -72,14 +68,37 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 ## 🚀 Featured Projects
 
-### 🤖 JobsAI – Agentic AI Implementation
-> Multi-agent job search tool for IT jobseekers that automated everything from scraping job ads to writing tailored cover letters
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
 
 ### 🤖 JobsAI – Agentic AI Implementation
-> A production-grade multi-agent job search and automation tool for IT jobseekers that completely automates the pipeline from scraping job boards to generating tailored cover letters.
+> A production-grade multi-agent job search and automation tool for IT jobseekers that completely automates the pipeline from scraping job boards to generating tailored cover letters
 
+<table>
+  <tr>
+    <td><strong>Backend &amp; AI:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Infrastructure &amp; CI/CD:</strong></td>
+    <td>
+      <!-- Liitä AWS ja GitHub Actions -merkit tähän -->
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Testing:</strong></td>
+    <td>
+      <!-- Liitä Pytest ja Vitest -merkit tähän -->
+    </td>
+  </tr>
+</table>
 
 Backend & AI: <img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
 
