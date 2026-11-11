@@ -123,8 +123,6 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 ### ☁️ AWS Cloud Environment Architecture
 > Production-grade cloud environments and automated full-stack architectures built entirely on AWS
 
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" /> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-2EA44F?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
-
 <table>
   <tr>
     <td><strong>Languages &amp; Web:</strong></td>
@@ -162,7 +160,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**
 * **Governance & Analysis:** Monitored system health with **CloudTrail, CloudFormation, and Amazon Athena**
-* 📊 Download the full [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) for in-depth technical blueprints.
+* 📊 Download the full [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) for in-depth technical blueprints
 
 <br />
 
