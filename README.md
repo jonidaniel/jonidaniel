@@ -6,6 +6,8 @@
 
 <img src="https://img.shields.io/badge/WordPress-%23117AC9(piste)svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
 
+<img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+
 ### Thesis Writer | Lihakilta.fi Webmaster | Cloud Architect | RPA Specialist
 
 <hr />
