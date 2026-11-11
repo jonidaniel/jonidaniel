@@ -177,6 +177,34 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn) ![Geospatial](https://img.shields.io/badge/Geospatial-green?style=for-the-badge) ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
+<table>
+  <tr>
+    <td><strong>Languages &amp; Tools:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML &amp; Data Science:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Visualization &amp; Geospatial:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/GeoPandas-%23139C5A.svg?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas" />
+      <img src="https://img.shields.io/badge/Tidyverse-%231A162D.svg?style=for-the-badge&logo=tidyverse&logoColor=white" alt="Tidyverse" />
+    </td>
+  </tr>
+</table>
+
 * Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis
 * Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**
 
