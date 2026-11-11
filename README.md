@@ -1,9 +1,5 @@
 ![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-
-<img src="https://img.shields.io/badge/WordPress-%23117AC9(piste)svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-
 ### Thesis Writer | Lihakilta.fi Webmaster | Cloud Architect | RPA Specialist
 
 <hr />
@@ -128,6 +124,40 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 > Production-grade cloud environments and automated full-stack architectures built entirely on AWS
 
 <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" /> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-2EA44F?style=for-the-badge&logo=python) ![IaC](https://img.shields.io/badge/Infrastructure_as_Code-red?style=for-the-badge)
+
+<table>
+  <tr>
+    <td><strong>Languages &amp; Web:</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Core AWS Services:</strong></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS Lambda" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon EC2" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-%23569A31.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon S3" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Amazon_DynamoDB-%234053D6.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon DynamoDB" />
+      <img src="https://custom.icon.badges.demolab.com/badge/Amazon_RDS-%23527FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon RDS" />
+      <img src="https://custom-icon-badges.demolab.com/badge/API_Gateway-%23FF4F8B.svg?style=for-the-badge&logo=aws&logoColor=white" alt="API Gateway" />
+      <img src="https://custom-icon-badges.demolab.com/badge/CloudFront-%238C4FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="CloudFront" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Management &amp; Analytics:</strong></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/CloudFormation-%23FF4F8B.svg?style=for-the-badge&logo=aws&logoColor=white" alt="CloudFormation" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Amazon_Athena-%238C4FFF.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Amazon Athena" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS_IAM-%23DD344C.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS IAM" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Boto3-%230052CC.svg?style=for-the-badge&logo=aws&logoColor=white" alt="Boto3" />
+    </td>
+  </tr>
+</table>
 
 * **Robust Cloud Core:** Implemented secure architectures using **EC2, Lambda, S3, RDS, DynamoDB, VPC, CloudFront, and API Gateway**
 * **Event-Driven Workflows:** Integrated advanced orchestration with **EventBridge, SNS, SQS, and CloudWatch**
