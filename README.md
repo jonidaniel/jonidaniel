@@ -62,6 +62,19 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 <br />
 <br />
 
+## 🛠️ Core Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, VB/VBA |
+| **Data & ML** | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, GeoPandas, ggplot2 |
+| **Databases** | MySQL |
+| **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
+| **Automation & BI**| UiPath (RPA), Power BI |
+
+<br />
+<br />
+
 ## 🚀 Featured Projects
 
 ### 🤖 JobsAI – Agentic AI Implementation
@@ -208,19 +221,6 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 * Engineered end-to-end data pipelines for geospatial evaluation, predictive mapping, and regression analysis
 * Deep practical experience with **Pandas, GeoPandas, NumPy, Leaflet, Shapefile.js, and GeoJSON**
-
-<br />
-<br />
-
-## 🛠️ Technical Toolkit
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, R, VB/VBA |
-| **Data & ML** | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, GeoPandas, ggplot2 |
-| **Databases** | MySQL |
-| **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
-| **Automation & BI**| UiPath (RPA), Power BI |
 
 <br />
 <br />
