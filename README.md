@@ -103,12 +103,12 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
   </tr>
 </table>
 
-* **Serverless Agentic Architecture:** Engineered an asynchronous, event-driven pipeline deployed entirely on serverless infrastructure (**AWS Lambda & API Gateway**).
-* **LLM-Powered Orchestration:** Developed 4 specialized, deterministic AI agents (**Profiler, QueryBuilder, Analyzer, and Generator**) running on OpenAI's GPT models to extract structured candidate skills, build optimized queries, and write tailored documents.
-* **Data Engineering & State Management:** Implemented web scrapers (**BeautifulSoup**) targeting major job boards (Duunitori, Jobly) with state persistence and progress tracking managed via **Amazon DynamoDB & S3**.
-* **Enterprise Delivery:** Automatically outputs personalized corporate-standard cover letters in Word format (`.docx`) delivered via presigned secure S3 URLs or automated email workflows (**AWS SES**).
+* **Serverless Agentic Architecture:** Engineered an asynchronous, event-driven pipeline deployed entirely on serverless infrastructure (**AWS Lambda & API Gateway**)
+* **LLM-Powered Orchestration:** Developed 4 specialized, deterministic AI agents (**Profiler, QueryBuilder, Analyzer, and Generator**) running on OpenAI's GPT models to extract structured candidate skills, build optimized queries, and write tailored documents
+* **Data Engineering & State Management:** Implemented web scrapers (**BeautifulSoup**) targeting major job boards (Duunitori, Jobly) with state persistence and progress tracking managed via **Amazon DynamoDB & S3**
+* **Enterprise Delivery:** Automatically outputs personalized corporate-standard cover letters in Word format (`.docx`) delivered via presigned secure S3 URLs or automated email workflows (**AWS SES**)
 
-*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but the full implementation demo can be viewed below.)*
+*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but a usage demo can be viewed below)*
 
 <br />
 
