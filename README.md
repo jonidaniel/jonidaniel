@@ -162,6 +162,8 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * **Governance & Analysis:** Monitored system health with **CloudTrail, CloudFormation, and Amazon Athena**
 * 📊 Download the full [*My AWS Environment* slideshow](https://github.com/jonidaniel/my-aws-environment/raw/refs/heads/main/my-aws-environment.pptx) for in-depth technical blueprints
 
+*(Note: The live cloud deployment is currently offline to optimize AWS infrastructure costs, but a usage demo can be viewed below)*
+
 <br />
 
 <p align="center">
