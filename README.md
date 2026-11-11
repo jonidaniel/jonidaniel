@@ -68,11 +68,12 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, R, VB/VBA |
-| **Data & ML** | Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, GeoPandas, ggplot2 |
-| **Databases** | MySQL |
-| **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
-| **Automation & BI**| UiPath (RPA), Power BI |
+| **Languages** | Python, TypeScript, JavaScript, R, SQL, VB/VBA |
+| **Web & Backend** | React, FastAPI, Tailwind CSS, WordPress, WooCommerce |
+| **Cloud & DevOps** | AWS, Git, GitHub Actions |
+| **Data & ML** | Pandas, NumPy, Scikit-learn, PyTorch, GeoPandas, MySQL |
+| **Automation & BI** | UiPath (RPA), Power BI |
+
 
 <br />
 <br />
