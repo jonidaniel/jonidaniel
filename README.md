@@ -68,8 +68,6 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 ## 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-🧠-darkblue?style=for-the-badge) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-green?style=for-the-badge)
-
 ### 🤖 JobsAI – Agentic AI Implementation
 > A production-grade multi-agent job search and automation tool for IT jobseekers that completely automates the pipeline from scraping job boards to generating tailored cover letters
 
@@ -77,7 +75,11 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
   <tr>
     <td><strong>Backend &amp; AI:</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
+      <img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
     </td>
   </tr>
   <tr>
