@@ -25,6 +25,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <br />
 <br />
+<br />
 
 <h2>
   💼 Professional Overview 
@@ -61,6 +62,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <br />
 <br />
+<br />
 
 ## 🛠️ Core Stack
 
@@ -72,6 +74,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 | **Cloud & DevOps**| AWS (EC2, RDS, DynamoDB, API Gateway, Athena), Git |
 | **Automation & BI**| UiPath (RPA), Power BI |
 
+<br />
 <br />
 <br />
 
@@ -237,6 +240,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <br />
 <br />
+<br />
 
 ## 📜 Certifications
 
@@ -245,6 +249,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-solutions-architect-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Solutions Architect badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://certmetrics.com"><img src="/imgs/certified-cloud-practitioner-badge.png" width="120" title="Verify on CertMetrics" alt="AWS Certified Cloud Practitioner badge"/></a>
 
+<br />
 <br />
 <br />
 
@@ -277,6 +282,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <br />
 <br />
+<br />
 
 ## 🗣️ Languages
 
@@ -284,6 +290,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 * **English:** Excellent spoken & written (professional working proficiency & presentations)
 * **Swedish:** Basics (manages simple conversations & gets the job done)
 
+<br />
 <br />
 <br />
 
