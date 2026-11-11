@@ -177,7 +177,7 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 <table>
   <tr>
-    <td><strong>Languages, &amp; Tools & Platforms:</strong></td>
+    <td><strong>Languages, Tools &amp; Platforms:</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
