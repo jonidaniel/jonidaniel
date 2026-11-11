@@ -175,15 +175,14 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 ### 📈 Data Science & Machine Learning Projects
 > A comprehensive collection of statistical data analysis, machine learning algorithms, and predictive modeling workflows
 
-![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r) ![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn) ![Geospatial](https://img.shields.io/badge/Geospatial-green?style=for-the-badge) ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
-
 <table>
   <tr>
-    <td><strong>Languages &amp; Tools:</strong></td>
+    <td><strong>Languages, &amp; Tools & Platforms:</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
       <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
     </td>
   </tr>
   <tr>
