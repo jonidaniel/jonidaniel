@@ -83,41 +83,19 @@ I engineer secure, end-to-end cloud infrastructure and data pipelines that trans
 
 Backend & AI
 
-Python 3.12+
-<img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-FastAPI
-<img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-OpenAI
-<img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-Pydantic
-<img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-uv
-<img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
+<img src="https://img.shields.io/badge/Python-3.12+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://custom-icon-badges.demolab.com/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" /> <img src="https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white" alt="uv" />
 
 Frontend
 
-React 19
-<img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-TypeScript
-<img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-Vite
-<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-Tailwind CSS
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 Pilvi-infrastruktuuri & CI/CD
 
-AWS
-<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
-GitHub Actions
-<img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 Testaus
 
-Pytest
-<img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-Vitest
-<img src="https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" /> <img src="https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
 
 * **Serverless Agentic Architecture:** Engineered an asynchronous, event-driven pipeline deployed entirely on serverless infrastructure (**AWS Lambda & API Gateway**).
 * **LLM-Powered Orchestration:** Developed 4 specialized, deterministic AI agents (**Profiler, QueryBuilder, Analyzer, and Generator**) running on OpenAI's GPT models to extract structured candidate skills, build optimized queries, and write tailored documents.
