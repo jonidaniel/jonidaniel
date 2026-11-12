@@ -1,4 +1,4 @@
-![A handful of common ducks](/imgs/common-ducks.jpeg?raw=true)
+![Different facial expressions](/imgs/multiple_face.jpg?raw=true)
 
 ### Thesis Writer | Lihakilta.fi Webmaster | Cloud Architect | RPA Specialist
 
